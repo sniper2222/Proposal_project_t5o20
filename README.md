@@ -1,7 +1,6 @@
 ## Project Proposal:
 
-This repo is one of the T5o20 Bootcamp Requirments.
----
+
 ---
 
 
