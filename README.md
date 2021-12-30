@@ -17,10 +17,11 @@
 
 ## tools: 
 
-There are tools that will be used to achive the goal of this project, such as :
-* numpy
-* pandas 
+There are tools and libraries that will be used to achive the goal of this project, such as :
+* numpy.
+* pandas. 
 * matplotlib.
+* Scikit-learn.
 * The work will be done through Jupyter Notebook.
 
 ---
